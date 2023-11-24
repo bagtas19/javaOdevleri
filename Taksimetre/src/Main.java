@@ -13,9 +13,5 @@ public class Main {
 
         total= (total<20) ? 20 : total;
         System.out.println("Toplam tutar"+total);
-
-
-
-
     }
 }
