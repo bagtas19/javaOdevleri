@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kdv/Kdv.iml" filepath="$PROJECT_DIR$/Kdv/Kdv.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaPatikasi.iml" filepath="$PROJECT_DIR$/javaPatikasi.iml" />
     </modules>
   </component>
